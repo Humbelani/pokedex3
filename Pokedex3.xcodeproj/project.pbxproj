@@ -12,6 +12,7 @@
 		CF1647621F3DF28200299FE1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF1647601F3DF28200299FE1 /* Main.storyboard */; };
 		CF1647641F3DF28200299FE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF1647631F3DF28200299FE1 /* Assets.xcassets */; };
 		CF1647671F3DF28200299FE1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF1647651F3DF28200299FE1 /* LaunchScreen.storyboard */; };
+		CF16476F1F3DFA7200299FE1 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = CF16476E1F3DFA7200299FE1 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		CF1647631F3DF28200299FE1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CF1647661F3DF28200299FE1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CF1647681F3DF28200299FE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF16476E1F3DFA7200299FE1 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CF1647601F3DF28200299FE1 /* Main.storyboard */,
 				CF1647631F3DF28200299FE1 /* Assets.xcassets */,
 				CF1647651F3DF28200299FE1 /* LaunchScreen.storyboard */,
+				CF16476E1F3DFA7200299FE1 /* pokemon.csv */,
 				CF1647681F3DF28200299FE1 /* Info.plist */,
 			);
 			path = Pokedex3;
@@ -126,6 +129,7 @@
 			files = (
 				CF1647671F3DF28200299FE1 /* LaunchScreen.storyboard in Resources */,
 				CF1647641F3DF28200299FE1 /* Assets.xcassets in Resources */,
+				CF16476F1F3DFA7200299FE1 /* pokemon.csv in Resources */,
 				CF1647621F3DF28200299FE1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
